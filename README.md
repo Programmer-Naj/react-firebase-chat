@@ -1,3 +1,3 @@
-# Lama Dev Chat App Starter template
+# CTU Support Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This chat platform is to give support to CTU clients.
